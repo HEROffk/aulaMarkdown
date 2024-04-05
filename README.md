@@ -1,3 +1,5 @@
+# VERSÃO 2
+
 # Engenharia de Requisitos
 
 ### **A Engenharia de Requisitos é uma área responsável por realizar o levantamento, definição, documentação e manutenção dos requisitos necessários para que um software ou aplicação possa rodar sem maiores problemas, dentro de um projeto de Engenharia de Software.**
